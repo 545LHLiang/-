@@ -159,11 +159,9 @@
 - ```js
    res.setHeader('Content-Type', 'text/html; charset=utf-8')
    ```
-  ```
-
 ###  根据不同的url响应不同的html内容
 
-- ```js
+  ```js
   const http = require('http')
   const server = http.createServer()
 
