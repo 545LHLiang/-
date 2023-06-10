@@ -798,3 +798,14 @@ exports.login = (req, res) => {
   ```
 
   ​
+
+## 接入支付宝
+
+- 安装 npm i alipay-sdk
+- 引入
+- 配置
+  - 引入 alipay 
+  - 沙箱[支付宝开放平台 (alipay.com)](https://open.alipay.com/develop/sandbox/app)
+
+
+
